@@ -23,6 +23,7 @@ Stock Market Management System is a process of managing and displaying market re
 - Sathwik J R
 - Vaishaali Kondapalli
 - Vaishnavi A Punagin
+> Sigh
 
 :poop:
 :shrug:
