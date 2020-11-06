@@ -3,7 +3,7 @@ Stock Market Management System is a process of managing and displaying market re
 ```The aim of this project is to implement the features of a Stock Market Management System to maintain details of users, stocks related data and the stock market system in an automated way!```
 :bulb:
 
-# What we learnt:
+## What we learnt:
 
 - Introductory Django
 - How to Build Database Driven Websites with Django
@@ -17,7 +17,7 @@ Stock Market Management System is a process of managing and displaying market re
 ##### We created a database to save the stock ticker symbols and connect to the API to pull real time stock market information into this app. You can find the source code hosted here!
 
 
-# We made this, we being:
+## We made this, we being:
 
 - Siva Prakash Anupam
 - Sathwik J R
