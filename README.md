@@ -14,7 +14,7 @@ Stock Market Management System is a process of managing and displaying market re
 - How To Manage URL's
 - How to Create Views/Pages
 
-### We created a database to save the stock ticker symbols and connect to the API to pull real time stock market information into this app. You can find the source code hosted here!
+##### We created a database to save the stock ticker symbols and connect to the API to pull real time stock market information into this app. You can find the source code hosted here!
 
 
 # We made this, we being:
