@@ -1,7 +1,7 @@
 # Stock-Market-Management-System
 Stock Market Management System is a process of managing and displaying market related components. Manual systems are quite tedious, time consuming and less efficient and accurate in comparison to the computerized system.
 ```The aim of this project is to implement the features of a Stock Market Management System to maintain details of users, stocks related data and the stock market system in an automated way!```
-
+:bulb:
 
 # What we learnt:
 
@@ -25,5 +25,4 @@ Stock Market Management System is a process of managing and displaying market re
 - Vaishnavi A Punagin
 
 :poop:
-:waves:
-:pepehappy:
+:shrug:
